@@ -1,4 +1,6 @@
-## 1668 Programación de Dispositivos Móviles
+# 1668 Programación de Dispositivos Móviles
+## FCA, UNAM
+Este perfil tiene como principal función subir los trabajos que solicita la asignatura 1168 Programación de Dispositivos Móviles de la carrera de Informática de la FCA (SUAyED) de la UNAM.
 
 <!--
 **AbraEsCa/abraesca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
